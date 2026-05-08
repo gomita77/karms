@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+     <head>
+       <meta charset="utf-8"/>
+       <title> MI PAEC</title>
+       <link rel="stylesheet" href="estilos.css"/>
+     </head>
+  <body>
+      <div id="container">
+          <header>      
+           <h1> Centro de Estudios Tecnológicos Industrial y de Servicios 154</h1> 
+           <h1> Cultura Digital</h1>
+
+          </header>
+           <nav>
+            <ul>
+             <li><a href="index1.html"> Principal </a></li>
+             <li>Ayuda</li>
+             <li>Contactos</li>
+            </ul>
+          </nav>
+        <div class="clear"></div>
+         
+        <section id="contenido">
+          <article class="article">
+           <h2>SAN ANDRES TOTOLTEPEC</a></h2>
+           
+          
+          </p>San Andrés Totoltepec es un pueblo originario ubicado en la alcaldía Tlalpan,
+        al sur de la Ciudad de México, caracterizado por su ambiente pintoresco, zonas boscosas y alta participación comunitaria. 
+      Destaca por su parroquia del siglo XVIII, el mercado local, la ciclovía y recientes obras de infraestructura como la nueva "[Huella Ecológica]
+       Ubicación y Entorno: Se localiza en una zona de transición urbana-rural en Tlalpan, cerca de la carretera federal a Cuernavaca y el Heroico Colegio Militar.
+Cultura y Tradiciones: La fiesta principal es en honor al Apóstol San Andrés, celebrada cerca del 30 de noviembre, y el mercado local celebra su fundación el 28 de agosto.
+Mejoras Recientes (2025-2026): Se han realizado obras de pavimentación, bacheo y mejoras en el deportivo y alberca del pueblo.
+Infraestructura Ecológica: En diciembre 2024 se inauguró la "Huella Ecológica" en Jardines de San Juan, un camino sustentable para mejorar la movilidad y seguridad.
+Lugares y Servicios: Cuenta con mercado fijo, un tianguis importante los jueves, y la ciclovía Tlalpan que conecta hacia el estado de Morelos.
+Seguridad y Convivencia: Los residentes suelen percibirlo como una zona tranquila con buen transporte.  
+          
+          </article>
+          
+        </section>
+     
+         <aside>
+          <h1>Que buscas?</h1>
+          <form>
+           <input type="text"/>
+           <input type="submit" value="buscar"/>
+          </form>
+         </aside>
+
+        <div class="clear"></div>
+
+        <footer>
+           Adrian Niño D.  &copy; 2026
+        </footer>
+
+
+
+       </div>
+   </body>
+</html>
+        
